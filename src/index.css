@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Arcade';
+  src: url(./fonts/PressStart2P.ttf) format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: 'Arcade', monospace;
+}
+
+
